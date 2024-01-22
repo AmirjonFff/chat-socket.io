@@ -8,3 +8,11 @@
     right: 5px;
     font-size: 14px;
 }
+
+.navbar_clc{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+}
